@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Tamara Govindsamy!<br><br>I specialize in Data Analytics and Business , combining expertise in<br>Metallurgical Engineering and Data Engineering to <br>build scalable Data-Driven solutions. With 1+ years of experience,<br>I focus on building data infrastructure across diverse industries.<br><br>Proficient in SQL, python &  <br>I deliver impactful results by problem-solving <br>& providing business solutions <br>I am a BEng Honors graduate in Metallurgical Engineering,<br>with strong interest in Data engineering.
+Hi I'm Tamara Govindsamy!<br><br>I specialize in Data Analytics and Business , combining expertise in<br>Metallurgical Engineering and Data Engineering to <br>build scalable Data-Driven solutions. With 1+ years of experience,<br>I focus on building data infrastructure across diverse industries.<br><br>Proficient in SQL, python &  <br>I deliver impactful results by problem-solving <br>& providing business solutions <br>I am a BEng Honors graduate in Metallurgical Engineering,<br>with strong interest in Data engineering & Data Science.
 
 
 # 💻 Tech Stack:
